@@ -1,6 +1,8 @@
-# finans
+# Projeto FINANS - Site de finanças
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png">
 
-Olá, seja bem-vindo ao meu primeiro projeto!! Este projeto foi realizado com intuito de treinar minhas habilidades em javascript, onde, nele, estou realizando um site inteiro usando javascript para realizar modificações nesta página.
+Olá, seja bem-vindo ao meu primeiro projeto!! Este projeto foi realizado com intuito de treinar minhas habilidades em bootstrap, onde, nele, estou realizando um site de finanças, onde tive contato pelo meu curso realizado na plataforma **UDEMY**.<br>
 
-Sobre o Portfolio
-Neste projeto você não vai encontrar: responsividade, design bonito, funcionalidade, até mesmo por que as modificações possíveis em ser realizadas em javascript são limitadas.
+### Sobre o projeto
+
+Finans, um site de finanças desenvolvido em um curso realizado na plataforma UDEMY, onde eu estou estudando sobre o framework de **CSS**, o Bootstrap. Ainda estou aprimorando meus conhecimentos sobre este framework.
